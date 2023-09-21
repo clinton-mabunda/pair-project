@@ -1,0 +1,8 @@
+.header{
+    background: pink;
+}
+.logo{
+    max-width: 150px;
+    height: 105px;
+    object-fit: cover;
+}
