@@ -32,3 +32,13 @@ box-sizing: border-box;
     font-size: 17px;
     text-transform: uppercase;
 }
+section {
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+  }
+  
+  h2 {
+    font-size: 36px;
+    color: black;
+  }
+  
